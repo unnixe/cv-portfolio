@@ -1,6 +1,7 @@
 import { ImageResponse } from 'next/og'
 import profileData from '../public/content/profileData.json';
 
+export const dynamic = 'force-static'
 export const runtime = 'edge'
 
 export const alt = profileData.general.byline;

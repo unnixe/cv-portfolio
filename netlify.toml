@@ -5,8 +5,7 @@
 [build.environment]
   NODE_VERSION = "18"
 
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
+# Removed the Next.js plugin which might be causing issues
 
 [[redirects]]
   from = "/*"
