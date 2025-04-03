@@ -1,8 +1,10 @@
+"use client";
+
 import { useEffect, useState } from "react";
 
 let isMobileValue: null | boolean = null;
 function isMobile(): boolean {
-  // When rendering on the server, return false and do not cache the value.
+  // When rendering on the server, always return false
   if (typeof window === 'undefined') {
     return false;
   }

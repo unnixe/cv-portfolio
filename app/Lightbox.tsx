@@ -1,8 +1,10 @@
+"use client";
+
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import useResizeObserver from "use-resize-observer";
 import ReactDOM from 'react-dom';
-import isMobile from './isMobile';
+import isMobile, { useIsMobile } from './isMobile';
 import styles from './Lightbox.module.css';
 
 type LightboxProps = {
@@ -17,9 +19,10 @@ const Lightbox: React.FC<LightboxProps> = ({
 }) => {
   const [currentIndex, setCurrentIndex] = useState(startingIndex);
   const scrollRef = useRef<HTMLDivElement>(null);
+  const isMobileDevice = useIsMobile();
 
   useEffect(() => {
-    if (scrollRef.current && isMobile() && startingIndex > 0) {
+    if (scrollRef.current && isMobileDevice && startingIndex > 0) {
       let bounds = scrollRef.current.getBoundingClientRect();
       scrollRef.current.scrollLeft = bounds.width * startingIndex;
     }
@@ -85,7 +88,7 @@ const Lightbox: React.FC<LightboxProps> = ({
 
   return ReactDOM.createPortal(
     <div
-      data-mobile={isMobile()}
+      data-mobile={isMobileDevice}
       className={styles.lightbox}>
       <div
         onScroll={(event) => handleScroll(event)}
@@ -98,7 +101,7 @@ const Lightbox: React.FC<LightboxProps> = ({
                 prev={attachments && attachments.length > 1 ? prev : undefined}
                 next={attachments && attachments.length > 1 ? next : undefined}
                 key={media.url}
-                display={currentIndex === index || isMobile() ? true : false}
+                display={currentIndex === index || isMobileDevice ? true : false}
                 media={media}
               />
             )

@@ -6,7 +6,7 @@ import Scrollbar from "./Scrollbar";
 import Lightbox from "./Lightbox";
 import { AnimatePresence } from "framer-motion";
 import { useScrollBoost } from 'react-scrollbooster';
-import isMobile from "./isMobile";
+import isMobile, { useIsMobile } from "./isMobile";
 import useResizeObserver from "use-resize-observer";
 import styles from "./Attachments.module.css";
 
@@ -20,6 +20,7 @@ const Attachments: React.FC<AttachmentsProps> = ({
     open: false,
     startingIndex: 0,
   });
+  const isMobileDevice = useIsMobile();
   const scrollRef = useRef<HTMLDivElement>(null);
   const innerRef = useRef<HTMLDivElement>(null);
   const galleryHeight = 90;
@@ -35,7 +36,7 @@ const Attachments: React.FC<AttachmentsProps> = ({
         containerRef.current.scrollLeft = data.position.x;
       }
     },
-    shouldScroll: () => { return !isMobile() }
+    shouldScroll: () => { return !isMobileDevice }
   });
 
   const setRefs = useCallback<React.RefCallback<HTMLDivElement>>(node => {
