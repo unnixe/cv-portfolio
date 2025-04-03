@@ -1,6 +1,25 @@
 import { promises as fs } from 'fs';
 import CaseStudy from './CaseStudy';
 import path from 'path';
+import { Metadata } from 'next';
+
+// Define the metadata generation function
+export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+  try {
+    const cvFile = await fs.readFile(process.cwd() + '/public/content/profileData.json', 'utf8');
+    const cv = JSON.parse(cvFile);
+    
+    return {
+      title: `${params.slug} | ${cv.general.name}`,
+      description: `Case study for ${params.slug}`,
+    };
+  } catch (error) {
+    return {
+      title: 'Case Study',
+      description: 'Case study page',
+    };
+  }
+}
 
 export const dynamic = 'force-static';
 
@@ -23,11 +42,13 @@ export async function generateStaticParams() {
   }
 }
 
-export default async function CaseStudyPage({
-  params,
-}: {
-  params: { slug: string }
-}) {
+// Define the correct type for the page component
+type Props = {
+  params: { slug: string };
+  searchParams?: { [key: string]: string | string[] | undefined };
+};
+
+export default async function CaseStudyPage({ params }: Props) {
   const cvFile = await fs.readFile(process.cwd() + '/public/content/profileData.json', 'utf8');
   const cv = JSON.parse(cvFile);
 
