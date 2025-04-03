@@ -1,0 +1,1762 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "abin",
+    "displayName": "Abin",
+    "profession": "Designepreneur @NextGrid",
+    "location": "India",
+    "pronouns": "He/him",
+    "byline": "Designepreneur @NextGrid in India, He/him",
+    "website": "https://nextgrid.digital",
+    "websiteURL": "https://nextgrid.digital",
+    "about": "The [NextGrid](http://nextgrid.digital) Manifesto\n\nAt NextGrid, we architect digital ecosystems where every interaction tells a story, every animation sparks joy, and every line of code pushes the boundaries of what's possible on the web.\n\n* Product Design\n\n* Web Design\n\n* Branding\n\n* Motion Graphics\n\n* UX Copywrting\n\nOur mission? To make the internet a more beautiful, functional, and delightfully weird place—one project at a time.",
+    "status": {
+      "text": "Ready to collaborate",
+      "emoji": "🔜",
+      "timestamp": "2024-08-05T20:41:58.395Z"
+    },
+    "sectionOrder": [
+      "Projects",
+      "Side Projects",
+      "Work Experience",
+      "Teams",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Features",
+      "Volunteering",
+      "Education",
+      "Certifications",
+      "Contact",
+      "Awards"
+    ]
+  },
+  "projects": [
+    {
+      "id": "O9QOEqRWYqguBwQe4bmy",
+      "year": "2024",
+      "heading": "QikCollect - Product Design , Branding, Web Design at QikCollect",
+      "url": "http://qikcollect.ai",
+      "collaborators": [
+        {
+          "displayName": "Vaswat Panda",
+          "profilePhoto": "/content/collaborators/vaswat.panda.jpg",
+          "profileURL": "https://read.cv/vaswat.panda"
+        },
+        {
+          "displayName": "Insha",
+          "profilePhoto": "/content/collaborators/insha_saleem.jpg",
+          "profileURL": "https://read.cv/insha_saleem"
+        }
+      ],
+      "description": "Qikcollect.ai is an innovative platform designed to streamline the management of receivables and communication through AI and automation.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/QikCollect-Product-Design-Branding-Web-Design-at-QikCollect-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1440,
+          "url": "/content/media/QikCollect-Product-Design-Branding-Web-Design-at-QikCollect-2.png"
+        },
+        {
+          "type": "image",
+          "width": 3840,
+          "height": 2160,
+          "url": "/content/media/QikCollect-Product-Design-Branding-Web-Design-at-QikCollect-3.png"
+        },
+        {
+          "type": "image",
+          "width": 611,
+          "height": 979,
+          "url": "/content/media/QikCollect-Product-Design-Branding-Web-Design-at-QikCollect-4.png"
+        }
+      ],
+      "type": "project",
+      "title": "QikCollect - Product Design , Branding, Web Design",
+      "company": "QikCollect"
+    },
+    {
+      "id": "OKjmRo3Nuig9ML2Zhybt",
+      "year": "2024",
+      "heading": "Preskale – Product Design , Website Refresh at Preskale",
+      "url": "http://preskale.com",
+      "collaborators": [
+        {
+          "displayName": "Vaswat Panda",
+          "profilePhoto": "/content/collaborators/vaswat.panda.jpg",
+          "profileURL": "https://read.cv/vaswat.panda"
+        },
+        {
+          "displayName": "Insha",
+          "profilePhoto": "/content/collaborators/insha_saleem.jpg",
+          "profileURL": "https://read.cv/insha_saleem"
+        }
+      ],
+      "description": "This project showcases our ability to maintain and enhance the UI and UX of a complex SaaS dashboard meant for Sales Engineers to stremline their leads and their impact. \\\n\\\nBy continuously refining Preskale's interface and functionality, we've significantly improved user engagement and conversion rates, demonstrating the power of persistent, user-centric design in the SaaS space.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1440,
+          "url": "/content/media/Preskale-Product-Design-Website-Refresh-at-Preskale-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 1080,
+          "url": "/content/media/Preskale-Product-Design-Website-Refresh-at-Preskale-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 720,
+          "url": "/content/media/Preskale-Product-Design-Website-Refresh-at-Preskale-3.png"
+        }
+      ],
+      "type": "project",
+      "title": "Preskale – Product Design , Website Refresh",
+      "company": "Preskale"
+    },
+    {
+      "id": "EgjUyDa52txr9Odl2y5n",
+      "year": "2024",
+      "heading": "Bridgetown – Branding, Logo, Web at Bridgetown Research",
+      "url": "https://www.bridgetownresearch.org/",
+      "collaborators": [
+        {
+          "displayName": "Vaswat Panda",
+          "profilePhoto": "/content/collaborators/vaswat.panda.jpg",
+          "profileURL": "https://read.cv/vaswat.panda"
+        }
+      ],
+      "description": "Focusing on creating a cohesive visual identity that aligns with the company's mission of delivering tailored insights and scientific rigor.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3276,
+          "height": 1916,
+          "url": "/content/media/Bridgetown-Branding-Logo-Web-at-Bridgetown-Research-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1440,
+          "url": "/content/media/Bridgetown-Branding-Logo-Web-at-Bridgetown-Research-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1080,
+          "height": 720,
+          "url": "/content/media/Bridgetown-Branding-Logo-Web-at-Bridgetown-Research-3.png"
+        }
+      ],
+      "type": "project",
+      "title": "Bridgetown – Branding, Logo, Web",
+      "company": "Bridgetown Research"
+    },
+    {
+      "id": "udGPA69WFH0dO86BYNWt",
+      "year": "2024",
+      "heading": "Webflow Consultant at Docsumo",
+      "url": "http://docsumo.com",
+      "collaborators": [],
+      "description": "As a Webflow Consultant for Docsumo, I specialized in streamlining the CMS architecture to enhance efficiency and scalability for programmatic SEO.\\\n\\\nAdditionally, I contributed to adding various functionalities to Docsumo.com, improving the website's overall user experience and functionality, aligning with the company's strategic goals. My expertise in Webflow enabled Docsumo to leverage the platform's full potential, ensuring a robust and SEO-friendly website architecture.\\\n\\\nServices Offered:\n\n1. Webflow Development\n\n2. Programmatic SEO CMS Setup",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1441,
+          "height": 1024,
+          "url": "/content/media/Webflow-Consultant-at-Docsumo.png"
+        }
+      ],
+      "type": "project",
+      "title": "Webflow Consultant",
+      "company": "Docsumo"
+    },
+    {
+      "id": "noXq5wh66iqNEl6LYCDW",
+      "year": "2023",
+      "heading": "Convert GPT",
+      "url": "https://nextgrid.gumroad.com/l/ConvertGPT",
+      "collaborators": [],
+      "description": "Convert GPT – Convert anything to anything As a designer, I needed a solution for seamless image conversions. So, I built my own custom GPT.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 720,
+          "url": "/content/media/Convert-GPT-1.png"
+        },
+        {
+          "type": "video",
+          "width": 1144,
+          "height": 720,
+          "url": "/content/media/Convert-GPT-2.mp4"
+        },
+        {
+          "type": "image",
+          "width": 600,
+          "height": 600,
+          "url": "/content/media/Convert-GPT-3.png"
+        }
+      ],
+      "type": "project",
+      "title": "Convert GPT",
+      "company": ""
+    },
+    {
+      "id": "uoIS1FdkbuNRqPvbT1kb",
+      "year": "2023",
+      "heading": "Manasvini's Portfolio at Manasvini",
+      "url": "https://manasviniligga.com",
+      "collaborators": [],
+      "description": "A distinctive, interactive, and playful digital portfolio for Manasvini Ligga, tailored to showcase her unique identity and expertise in performance marketing.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1332,
+          "height": 720,
+          "url": "/content/media/Manasvinis-Portfolio-at-Manasvini-1.gif"
+        },
+        {
+          "type": "image",
+          "width": 1024,
+          "height": 480,
+          "url": "/content/media/Manasvinis-Portfolio-at-Manasvini-2.gif"
+        },
+        {
+          "type": "image",
+          "width": 64,
+          "height": 64,
+          "url": "/content/media/Manasvinis-Portfolio-at-Manasvini-3.png"
+        },
+        {
+          "type": "video",
+          "width": 1722,
+          "height": 936,
+          "url": "/content/media/Manasvinis-Portfolio-at-Manasvini-4.mov"
+        }
+      ],
+      "type": "project",
+      "title": "Manasvini's Portfolio",
+      "company": "Manasvini"
+    },
+    {
+      "id": "21vzVbSCJz1zOQGcsUba",
+      "year": "2023",
+      "heading": "Product Design : OSlash Copilot at OSlash",
+      "url": "https://www.oslash.com/oslash-copilot",
+      "collaborators": [],
+      "description": "OSlash Copilot, an plug and play integration for your product, team or yourself.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 1348,
+          "height": 720,
+          "url": "/content/media/Product-Design-OSlash-Copilot-at-OSlash-1.mp4"
+        },
+        {
+          "type": "video",
+          "width": 756,
+          "height": 720,
+          "url": "/content/media/Product-Design-OSlash-Copilot-at-OSlash-2.mp4"
+        }
+      ],
+      "type": "project",
+      "title": "Product Design : OSlash Copilot",
+      "company": "OSlash"
+    },
+    {
+      "id": "pqavOdX1t2fB9hvwPFPA",
+      "year": "2023",
+      "heading": "Prototype : Clara at OSlash",
+      "url": "https://clara-ai.webflow.io/",
+      "collaborators": [],
+      "description": "Clara is a prototype of an AI copilot for products that I designed in collaboration with OSlash to gather early feedback, which ultimately paved the way for OSlash Copilot.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1953,
+          "height": 1108,
+          "url": "/content/media/Prototype-Clara-at-OSlash-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1340,
+          "height": 704,
+          "url": "/content/media/Prototype-Clara-at-OSlash-2.png"
+        }
+      ],
+      "type": "project",
+      "title": "Prototype : Clara",
+      "company": "OSlash"
+    },
+    {
+      "id": "EqqqhAkMZcwjcNaRv26e",
+      "year": "2023",
+      "heading": "Prototype : Clyde at OSlash",
+      "url": "https://clyde.webflow.io/",
+      "collaborators": [],
+      "description": "Clyde is a prototype of an AI copilot designed for personal and team use cases, created in partnership with OSlash to collect early feedback, which ultimately guided us to the development of OSlash Copilot.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3214,
+          "height": 1629,
+          "url": "/content/media/Prototype-Clyde-at-OSlash-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2444,
+          "height": 1366,
+          "url": "/content/media/Prototype-Clyde-at-OSlash-2.png"
+        }
+      ],
+      "type": "project",
+      "title": "Prototype : Clyde",
+      "company": "OSlash"
+    },
+    {
+      "id": "jhZ2VnNTpmLVotRFC1TF",
+      "year": "2021",
+      "heading": "Web design and Branding : OSlash.com at OSlash",
+      "url": "https://oslash.com",
+      "collaborators": [],
+      "description": "Designing OSlash.com using Webflow and Figma \n\nUI/UX research, Designing Wireframes and Prototyping ,\n- OSlash Copilot integration\n- Automating lead generation to capture market use cases\n- Strategizing and implementing marketing campaigns\n- Competitor analysis and SEO \n\nTools : Webflow, Figma, Zapier, Javascript, Google Analytics",
+      "attachments": [],
+      "type": "project",
+      "title": "Web design and Branding : OSlash.com",
+      "company": "OSlash"
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "jbVg7f7oCRTeAOWYFTYN",
+      "year": "2024",
+      "heading": "Design Partner at GTM Bolt",
+      "url": "http://gtmbolt.com",
+      "collaborators": [],
+      "description": "I took the lead as the designer behind GTM Bolt, where I was responsible for creating the landing page, establishing the brand identity, and designing all visual assets. ",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 1360,
+          "height": 720,
+          "url": "/content/media/Design-Partner-at-GTM-Bolt-1.mp4"
+        },
+        {
+          "type": "image",
+          "width": 647,
+          "height": 444,
+          "url": "/content/media/Design-Partner-at-GTM-Bolt-2.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Design Partner",
+      "company": "GTM Bolt"
+    },
+    {
+      "id": "ZxBClSgUbOWAkcHKCU3F",
+      "year": "2023",
+      "heading": "Spatial OS Keyboard at Spline",
+      "url": "https://my.spline.design/visionprokeyboard-f4015cb0f8bef77008ea22078a8d6bf7/",
+      "collaborators": [],
+      "description": "Playground: Spline\nBeen playing around with something pretty cool, and I can't wait to share it with you all!\n\nAn Interactive Keyboard for Vision Pro Spatial OS, brought to life with a tool I'm totally hooked on – #spline an Interactive Keyboard for VisionProSpatialOS that feels as real as it gets, right at your fingertips!",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 1516,
+          "height": 720,
+          "url": "/content/media/Spatial-OS-Keyboard-at-Spline.mp4"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Spatial OS Keyboard",
+      "company": "Spline"
+    },
+    {
+      "id": "0Iwi5OPPa5FvWFBzCtC1",
+      "year": "2023",
+      "heading": "Portfolio Template at Webflow",
+      "url": null,
+      "collaborators": [],
+      "description": "Eclipse and Ascent | Portfolio crafted for Product Designers on Webflow",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 808,
+          "height": 480,
+          "url": "/content/media/Portfolio-Template-at-Webflow-1.gif"
+        },
+        {
+          "type": "image",
+          "width": 3840,
+          "height": 2880,
+          "url": "/content/media/Portfolio-Template-at-Webflow-2.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Portfolio Template",
+      "company": "Webflow"
+    },
+    {
+      "id": "URd1GeJvMFQju1bjyCyL",
+      "year": "2023",
+      "heading": "Text FX with Google",
+      "url": "http://text-fx-clone.webflow.io/",
+      "collaborators": [],
+      "description": "Google TextFX is a creative powerhouse fueled by Google's PaLM 2 model. With 10 AI tools, it reimagines how artists and creators approach text.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 600,
+          "height": 320,
+          "url": "/content/media/Text-FX-with-Google.gif"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Text FX with Google",
+      "company": null
+    },
+    {
+      "id": "ga751EUr6F7rFeGI0nhg",
+      "year": "2023",
+      "heading": "Open Interpreter at Framer",
+      "url": "https://openinterpreter.framer.website/",
+      "collaborators": [],
+      "description": "An hero section showcasing open interpreter's hero section with the background video",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3360,
+          "height": 1788,
+          "url": "/content/media/Open-Interpreter-at-Framer.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Open Interpreter",
+      "company": "Framer"
+    },
+    {
+      "id": "FQif7ckg1uGhczZK1sTm",
+      "year": "2021",
+      "heading": "Anterra Studio",
+      "url": "https://www.anterrastudio.com/",
+      "collaborators": [],
+      "description": "Interactive Webflow Website - Anterra Studio\n\nI and Dre (Anterra Studio's in-house designer), united talents to craft an interactive Webflow website that brings to life Anterra Studio's transformative work in masterplanning and design. The website serves as a vibrant showcase of their innovative services, highlighting their contributions to the built environment and community development, with a focus on notable projects like the Green Park Residences development",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 900,
+          "height": 476,
+          "url": "/content/media/Anterra-Studio.gif"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Anterra Studio",
+      "company": null
+    },
+    {
+      "id": "CkPDKiJnbkPjQn421RRl",
+      "year": "2021",
+      "heading": "Ben Hyde's Portfolio at Moontek",
+      "url": "https://www.benhydemotion.com/",
+      "collaborators": [],
+      "description": "Collaborating with Moontek Solutions to migrate Ben Hyde's portfolio from Wix to Webflow, enhancing the visual appeal and user experience. The project showcased Ben's expertise in commercial editing, directing, motion graphics, and his role as a non-executive director in community growth. The result is a modern, responsive website that reflects his creativity and professionalism.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 900,
+          "height": 480,
+          "url": "/content/media/Ben-Hydes-Portfolio-at-Moontek.gif"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Ben Hyde's Portfolio",
+      "company": "Moontek"
+    }
+  ],
+  "exhibitions": [],
+  "talks": [
+    {
+      "id": "6rHN5VykFqF68Tz3rRKW",
+      "year": "2023",
+      "heading": "Journey from Webflow to Product Design at Webflow Meetup Bengaluru",
+      "url": "https://www.linkedin.com/posts/abin-kumar-panda_webflowenthusiasts-communitymatters-webdesign-activity-7099045120401932289-eVuX?utm_source=share&utm_medium=member_desktop",
+      "collaborators": [],
+      "description": "Hosted my first ever Webflow Meetup to \n\n🤝 Network with like-minded individuals\n🌟 Share your experiences and insights\n🔍 Learn from experts in the field",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2880,
+          "height": 1800,
+          "url": "/content/media/Journey-from-Webflow-to-Product-Design-at-Webflow-Meetup-Bengaluru-1.png"
+        },
+        {
+          "type": "image",
+          "width": 777,
+          "height": 488,
+          "url": "/content/media/Journey-from-Webflow-to-Product-Design-at-Webflow-Meetup-Bengaluru-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1478,
+          "height": 1108,
+          "url": "/content/media/Journey-from-Webflow-to-Product-Design-at-Webflow-Meetup-Bengaluru-3.jpg"
+        }
+      ],
+      "type": "talk",
+      "title": "Journey from Webflow to Product Design",
+      "event": "Webflow Meetup Bengaluru",
+      "location": "Bengaluru, India"
+    }
+  ],
+  "writing": [
+    {
+      "id": "yZSRzodUAuYpxxAnsRIq",
+      "year": "2023",
+      "heading": "Unveiling the Evolution of AI : A Journey Through the 7 Stages, medium",
+      "url": "https://medium.com/@AbinPanda/7-stages-of-ai-68a89a13b820",
+      "collaborators": [],
+      "description": "Unveiling the Evolution of AI : A Journey Through the 7 Stages\n\nThis article discusses the seven stages of artificial intelligence (AI) and its evolution from rule-based systems to the theoretical concept of the singularity.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3840,
+          "height": 2160,
+          "url": "/content/media/Unveiling-the-Evolution-of-AI-A-Journey-Through-the-7-Stages-medium.jpg"
+        }
+      ],
+      "type": "writing",
+      "title": "Unveiling the Evolution of AI : A Journey Through the 7 Stages",
+      "publisher": "medium"
+    }
+  ],
+  "awards": [
+    {
+      "id": "OlnzScFdmjQ90uVaPvAA",
+      "year": "2021",
+      "heading": "CloneComp Winners from Finsweet + Webflow",
+      "url": "https://clonecomp.webflow.io",
+      "collaborators": [],
+      "description": "CloneComp is a four day Webflow specific hackathon designed to test your skills and connect you with top makers in the no code community. \n\nTaking inspiration from popular online cooking shows, CloneComp blends time capped web development with story-driven daily prompts that challenge participants to weave creative story lines into engaging digital experiences.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1280,
+          "height": 720,
+          "url": "/content/media/CloneComp-Winners-from-Finsweet-Webflow.jpg"
+        }
+      ],
+      "type": "award",
+      "title": "CloneComp Winners",
+      "presenter": "Finsweet + Webflow"
+    }
+  ],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "0CAUJsSorg5lqhGAHhho",
+      "year": "2020 — Now",
+      "heading": "Designpreneur at NextGrid",
+      "url": "http://nextgrid.digital",
+      "collaborators": [
+        {
+          "displayName": "Vaswat Panda",
+          "profilePhoto": "/content/collaborators/vaswat.panda.jpg",
+          "profileURL": "https://read.cv/vaswat.panda"
+        }
+      ],
+      "description": "Webflow Template Designer\nAt NextGrid we hand-craft aesthetically designed templates in Webflow and Framer, making it the best solutions for businesses to launch their marketing websites quickly.\n\nWe also take up custom projects to help startups create their brand and identity on the web. With a keen eye for design and a knack for problem-solving, We transform boring websites into engaging, interactive experiences that keep visitors coming back for more.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 402,
+          "height": 390,
+          "url": "/content/media/Designpreneur-at-NextGrid-1.png"
+        },
+        {
+          "type": "video",
+          "width": 1360,
+          "height": 720,
+          "url": "/content/media/Designpreneur-at-NextGrid-2.mp4"
+        },
+        {
+          "type": "image",
+          "width": 1441,
+          "height": 1024,
+          "url": "/content/media/Designpreneur-at-NextGrid-3.png"
+        },
+        {
+          "type": "image",
+          "width": 808,
+          "height": 480,
+          "url": "/content/media/Designpreneur-at-NextGrid-4.gif"
+        },
+        {
+          "type": "image",
+          "width": 3360,
+          "height": 1788,
+          "url": "/content/media/Designpreneur-at-NextGrid-5.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Designpreneur",
+      "company": "NextGrid",
+      "location": "Self Employed - Remote"
+    },
+    {
+      "id": "VnF6odDhOUlusMkO5HG6",
+      "year": "2019 — 2023",
+      "heading": "Webflow Designer at OSlash",
+      "url": null,
+      "collaborators": [],
+      "description": "Webmaster | Webflow designer at OSlash\n\nThe role comprised of responsibilities including :\n\n* Designing OSlash.com \\[Webflow\\]\n* UI/UX research, Designing Wireframes and Prototyping \\[Figma\\]\n* Tool integrations\n* Strategizing and implementing marketing campaigns\n* Competitor analysis and SEO\n\nDesigned visually appealing and intuitive user interfaces that drive website traffic and conversions to deliver the best possible user experiences and drive business growth.\n\nSkills: Startup Marketing · User Experience Design (UED) · User Experience (UX) · Graphic Design · Design · Design Thinking · Content Marketing · Marketing · Webflow · Web Design",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 5268,
+          "height": 3293,
+          "url": "/content/media/Webflow-Designer-at-OSlash-1.png"
+        },
+        {
+          "type": "image",
+          "width": 5269,
+          "height": 3366,
+          "url": "/content/media/Webflow-Designer-at-OSlash-2.png"
+        },
+        {
+          "type": "image",
+          "width": 5269,
+          "height": 3293,
+          "url": "/content/media/Webflow-Designer-at-OSlash-3.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Webflow Designer",
+      "company": "OSlash",
+      "location": "Bengaluru"
+    },
+    {
+      "id": "5MrphTFz4HgFfXGtFMfZ",
+      "year": "2022 — 2023",
+      "heading": "Product Designer at Oslash",
+      "url": "https://www.oslash.com",
+      "collaborators": [],
+      "description": "With a strong background in web design, a deep understanding of how to create seamless user experiences that drive engagement and conversion I wm now promoted to a product designer where I am involved in creating the chat interface for OSlash Copilot\n\nSkills: Prototyping · Wireframing · Design Management · Product Marketing · Product Design · Design · User Interface Design · Software Design · Design Thinking · Content Marketing · Marketing · Multi-Channel Marketing · Web Design",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 790,
+          "height": 734,
+          "url": "/content/media/Product-Designer-at-Oslash-1.png"
+        },
+        {
+          "type": "video",
+          "width": 756,
+          "height": 720,
+          "url": "/content/media/Product-Designer-at-Oslash-2.mp4"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 322,
+          "url": "/content/media/Product-Designer-at-Oslash-3.png"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 322,
+          "url": "/content/media/Product-Designer-at-Oslash-4.png"
+        },
+        {
+          "type": "image",
+          "width": 790,
+          "height": 650,
+          "url": "/content/media/Product-Designer-at-Oslash-5.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Oslash",
+      "location": "Bengaluru"
+    },
+    {
+      "id": "yrNV0PHAv4YZm0sQ0e3s",
+      "year": "2019 — 2021",
+      "heading": "Test Automation Engineer at Mindteck",
+      "url": null,
+      "collaborators": [],
+      "description": "Test Engineer | Phillips\ncertified • Python Programming Expert \n\nResponsibilities:\n• Automation analysis and identification • Test Automation using Selenium with Python • Embedded systems testing • API testing • Test case preparation and execution • Manual testing",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Test Automation Engineer",
+      "company": "Mindteck",
+      "location": "Kolkata, India"
+    },
+    {
+      "id": "aFNZ7GBfGv2nmRxLT9kB",
+      "year": "2018 — 2019",
+      "heading": "Test Engineer at RAD365",
+      "url": null,
+      "collaborators": [],
+      "description": "Test Engineer | Phillips\ncertified • Python Programming Expert \n\nSkills:\n• Automation analysis and identification • Test Automation using Selenium with Python • Embedded systems testing • API testing • Test case preparation and execution • Manual testing",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Test Engineer",
+      "company": "RAD365",
+      "location": "Kolkata"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "WFsFKVlklquhTBBxOogq",
+      "year": "2012 — 2016",
+      "heading": "Bachelor’s Degree in Computer Science and Engineering at MIT University of Meghalaya",
+      "url": "https://www.mituniversityindia.edu.in/",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor’s Degree in Computer Science and Engineering",
+      "school": "MIT University of Meghalaya",
+      "location": "Shillong, Meghalaya, India"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "E34jSW3EmisP0YcLAsPS",
+      "year": "2023",
+      "heading": "Google Cloud - Certifications from Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/ee5abba1-cf2a-4171-8023-1c6f63ddeb47",
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1206,
+          "height": 1120,
+          "url": "/content/media/Google-Cloud-Certifications-from-Google-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1216,
+          "height": 1086,
+          "url": "/content/media/Google-Cloud-Certifications-from-Google-2.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Google Cloud - Certifications",
+      "organization": "Google"
+    },
+    {
+      "id": "12ZtpzTx5y8w8Q1aOoDz",
+      "year": "2023",
+      "heading": "Introduction to Duet AI in Google Workspace from Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/ee5abba1-cf2a-4171-8023-1c6f63ddeb47/badges/6299860",
+      "collaborators": [],
+      "description": "[Introduction to Duet AI in Google Workspace | Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/ee5abba1-cf2a-4171-8023-1c6f63ddeb47/badges/6299860)",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1250,
+          "height": 1138,
+          "url": "/content/media/Introduction-to-Duet-AI-in-Google-Workspace-from-Google.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Introduction to Duet AI in Google Workspace",
+      "organization": "Google"
+    },
+    {
+      "id": "atGLILDV14XYJ3v0NDaW",
+      "year": "2019",
+      "heading": "Webflow Certifications from Webflow",
+      "url": null,
+      "collaborators": [],
+      "description": "Webflow Layout : Level 1\nWebflow 101 course certification",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1275,
+          "height": 1650,
+          "url": "/content/media/Webflow-Certifications-from-Webflow-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 1275,
+          "height": 1650,
+          "url": "/content/media/Webflow-Certifications-from-Webflow-2.jpg"
+        }
+      ],
+      "type": "certification",
+      "name": "Webflow Certifications",
+      "organization": "Webflow"
+    },
+    {
+      "id": "fVyY2bz37IZ0iCcy65JY",
+      "year": "2019",
+      "heading": "Cloud Computing and Virtualization Specialist from IBM",
+      "url": "https://www.credly.com/badges/4904f7f0-2619-4cbd-94b3-d105ce0e5d28/linked_in_profile",
+      "collaborators": [],
+      "description": "Univ Reg. No.\nR010112006",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 386,
+          "height": 358,
+          "url": "/content/media/Cloud-Computing-and-Virtualization-Specialist-from-IBM.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Cloud Computing and Virtualization Specialist",
+      "organization": "IBM"
+    },
+    {
+      "id": "l3aqKqPhceOztxF49SHR",
+      "year": "2019",
+      "heading": "Python Programming Expert from Edureka",
+      "url": "https://www.edureka.co/lms/certificate/6be52886deaf2c8420b25fe965ed99ee",
+      "collaborators": [],
+      "description": null,
+      "attachments": [
+        {
+          "type": "image",
+          "width": 541,
+          "height": 377,
+          "url": "/content/media/Python-Programming-Expert-from-Edureka.png"
+        }
+      ],
+      "type": "certification",
+      "name": "Python Programming Expert",
+      "organization": "Edureka"
+    }
+  ],
+  "contact": [
+    {
+      "id": "XUsLnYSBjPOgtQ5XawQC",
+      "platform": "Gumroad",
+      "handle": "Convert GPT",
+      "url": "https://nextgrid.gumroad.com/l/ConvertGPT"
+    },
+    {
+      "id": "PvgSLro0RQ0XG4RU2TAp",
+      "platform": "Consulting @ Goreply",
+      "handle": "Abin",
+      "url": "https://goreply.com/p/Abin/"
+    },
+    {
+      "id": "eqo9wbN61YVUb1GpNGnc",
+      "platform": "LinkedIn",
+      "handle": "abin-kumar-panda",
+      "url": "https://linkedin.com/in/abin-kumar-panda"
+    },
+    {
+      "id": "5zotiJON9JIib2gXnKew",
+      "platform": "Email",
+      "handle": "abin@mail-me.com",
+      "url": "mailto:abin@mail-me.com"
+    },
+    {
+      "id": "jDAF8C46BTQgI0j2Rfme",
+      "platform": "Website",
+      "handle": "abin.webflow.io",
+      "url": "https://abin.webflow.io"
+    },
+    {
+      "id": "2uLPIIq9mRbEuPkzDBLx",
+      "platform": "Twitter",
+      "handle": "AbinPanda",
+      "url": "https://twitter.com/AbinPanda"
+    },
+    {
+      "id": "SfcXCO5xQ4CEXdQtDdpl",
+      "platform": "Dribbble",
+      "handle": "Abin_Panda",
+      "url": "https://dribbble.com/Abin_Panda"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "O9QOEqRWYqguBwQe4bmy",
+          "year": "2024",
+          "heading": "QikCollect - Product Design , Branding, Web Design at QikCollect",
+          "url": "http://qikcollect.ai",
+          "collaborators": [
+            {
+              "displayName": "Vaswat Panda",
+              "profilePhoto": "/content/collaborators/vaswat.panda.jpg",
+              "profileURL": "https://read.cv/vaswat.panda"
+            },
+            {
+              "displayName": "Insha",
+              "profilePhoto": "/content/collaborators/insha_saleem.jpg",
+              "profileURL": "https://read.cv/insha_saleem"
+            }
+          ],
+          "description": "Qikcollect.ai is an innovative platform designed to streamline the management of receivables and communication through AI and automation.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/QikCollect-Product-Design-Branding-Web-Design-at-QikCollect-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1440,
+              "url": "/content/media/QikCollect-Product-Design-Branding-Web-Design-at-QikCollect-2.png"
+            },
+            {
+              "type": "image",
+              "width": 3840,
+              "height": 2160,
+              "url": "/content/media/QikCollect-Product-Design-Branding-Web-Design-at-QikCollect-3.png"
+            },
+            {
+              "type": "image",
+              "width": 611,
+              "height": 979,
+              "url": "/content/media/QikCollect-Product-Design-Branding-Web-Design-at-QikCollect-4.png"
+            }
+          ],
+          "type": "project",
+          "title": "QikCollect - Product Design , Branding, Web Design",
+          "company": "QikCollect"
+        },
+        {
+          "id": "OKjmRo3Nuig9ML2Zhybt",
+          "year": "2024",
+          "heading": "Preskale – Product Design , Website Refresh at Preskale",
+          "url": "http://preskale.com",
+          "collaborators": [
+            {
+              "displayName": "Vaswat Panda",
+              "profilePhoto": "/content/collaborators/vaswat.panda.jpg",
+              "profileURL": "https://read.cv/vaswat.panda"
+            },
+            {
+              "displayName": "Insha",
+              "profilePhoto": "/content/collaborators/insha_saleem.jpg",
+              "profileURL": "https://read.cv/insha_saleem"
+            }
+          ],
+          "description": "This project showcases our ability to maintain and enhance the UI and UX of a complex SaaS dashboard meant for Sales Engineers to stremline their leads and their impact. \\\n\\\nBy continuously refining Preskale's interface and functionality, we've significantly improved user engagement and conversion rates, demonstrating the power of persistent, user-centric design in the SaaS space.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1440,
+              "url": "/content/media/Preskale-Product-Design-Website-Refresh-at-Preskale-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 1080,
+              "url": "/content/media/Preskale-Product-Design-Website-Refresh-at-Preskale-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 720,
+              "url": "/content/media/Preskale-Product-Design-Website-Refresh-at-Preskale-3.png"
+            }
+          ],
+          "type": "project",
+          "title": "Preskale – Product Design , Website Refresh",
+          "company": "Preskale"
+        },
+        {
+          "id": "EgjUyDa52txr9Odl2y5n",
+          "year": "2024",
+          "heading": "Bridgetown – Branding, Logo, Web at Bridgetown Research",
+          "url": "https://www.bridgetownresearch.org/",
+          "collaborators": [
+            {
+              "displayName": "Vaswat Panda",
+              "profilePhoto": "/content/collaborators/vaswat.panda.jpg",
+              "profileURL": "https://read.cv/vaswat.panda"
+            }
+          ],
+          "description": "Focusing on creating a cohesive visual identity that aligns with the company's mission of delivering tailored insights and scientific rigor.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3276,
+              "height": 1916,
+              "url": "/content/media/Bridgetown-Branding-Logo-Web-at-Bridgetown-Research-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1440,
+              "url": "/content/media/Bridgetown-Branding-Logo-Web-at-Bridgetown-Research-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1080,
+              "height": 720,
+              "url": "/content/media/Bridgetown-Branding-Logo-Web-at-Bridgetown-Research-3.png"
+            }
+          ],
+          "type": "project",
+          "title": "Bridgetown – Branding, Logo, Web",
+          "company": "Bridgetown Research"
+        },
+        {
+          "id": "udGPA69WFH0dO86BYNWt",
+          "year": "2024",
+          "heading": "Webflow Consultant at Docsumo",
+          "url": "http://docsumo.com",
+          "collaborators": [],
+          "description": "As a Webflow Consultant for Docsumo, I specialized in streamlining the CMS architecture to enhance efficiency and scalability for programmatic SEO.\\\n\\\nAdditionally, I contributed to adding various functionalities to Docsumo.com, improving the website's overall user experience and functionality, aligning with the company's strategic goals. My expertise in Webflow enabled Docsumo to leverage the platform's full potential, ensuring a robust and SEO-friendly website architecture.\\\n\\\nServices Offered:\n\n1. Webflow Development\n\n2. Programmatic SEO CMS Setup",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1441,
+              "height": 1024,
+              "url": "/content/media/Webflow-Consultant-at-Docsumo.png"
+            }
+          ],
+          "type": "project",
+          "title": "Webflow Consultant",
+          "company": "Docsumo"
+        },
+        {
+          "id": "noXq5wh66iqNEl6LYCDW",
+          "year": "2023",
+          "heading": "Convert GPT",
+          "url": "https://nextgrid.gumroad.com/l/ConvertGPT",
+          "collaborators": [],
+          "description": "Convert GPT – Convert anything to anything As a designer, I needed a solution for seamless image conversions. So, I built my own custom GPT.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 720,
+              "url": "/content/media/Convert-GPT-1.png"
+            },
+            {
+              "type": "video",
+              "width": 1144,
+              "height": 720,
+              "url": "/content/media/Convert-GPT-2.mp4"
+            },
+            {
+              "type": "image",
+              "width": 600,
+              "height": 600,
+              "url": "/content/media/Convert-GPT-3.png"
+            }
+          ],
+          "type": "project",
+          "title": "Convert GPT",
+          "company": ""
+        },
+        {
+          "id": "uoIS1FdkbuNRqPvbT1kb",
+          "year": "2023",
+          "heading": "Manasvini's Portfolio at Manasvini",
+          "url": "https://manasviniligga.com",
+          "collaborators": [],
+          "description": "A distinctive, interactive, and playful digital portfolio for Manasvini Ligga, tailored to showcase her unique identity and expertise in performance marketing.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1332,
+              "height": 720,
+              "url": "/content/media/Manasvinis-Portfolio-at-Manasvini-1.gif"
+            },
+            {
+              "type": "image",
+              "width": 1024,
+              "height": 480,
+              "url": "/content/media/Manasvinis-Portfolio-at-Manasvini-2.gif"
+            },
+            {
+              "type": "image",
+              "width": 64,
+              "height": 64,
+              "url": "/content/media/Manasvinis-Portfolio-at-Manasvini-3.png"
+            },
+            {
+              "type": "video",
+              "width": 1722,
+              "height": 936,
+              "url": "/content/media/Manasvinis-Portfolio-at-Manasvini-4.mov"
+            }
+          ],
+          "type": "project",
+          "title": "Manasvini's Portfolio",
+          "company": "Manasvini"
+        },
+        {
+          "id": "21vzVbSCJz1zOQGcsUba",
+          "year": "2023",
+          "heading": "Product Design : OSlash Copilot at OSlash",
+          "url": "https://www.oslash.com/oslash-copilot",
+          "collaborators": [],
+          "description": "OSlash Copilot, an plug and play integration for your product, team or yourself.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 1348,
+              "height": 720,
+              "url": "/content/media/Product-Design-OSlash-Copilot-at-OSlash-1.mp4"
+            },
+            {
+              "type": "video",
+              "width": 756,
+              "height": 720,
+              "url": "/content/media/Product-Design-OSlash-Copilot-at-OSlash-2.mp4"
+            }
+          ],
+          "type": "project",
+          "title": "Product Design : OSlash Copilot",
+          "company": "OSlash"
+        },
+        {
+          "id": "pqavOdX1t2fB9hvwPFPA",
+          "year": "2023",
+          "heading": "Prototype : Clara at OSlash",
+          "url": "https://clara-ai.webflow.io/",
+          "collaborators": [],
+          "description": "Clara is a prototype of an AI copilot for products that I designed in collaboration with OSlash to gather early feedback, which ultimately paved the way for OSlash Copilot.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1953,
+              "height": 1108,
+              "url": "/content/media/Prototype-Clara-at-OSlash-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1340,
+              "height": 704,
+              "url": "/content/media/Prototype-Clara-at-OSlash-2.png"
+            }
+          ],
+          "type": "project",
+          "title": "Prototype : Clara",
+          "company": "OSlash"
+        },
+        {
+          "id": "EqqqhAkMZcwjcNaRv26e",
+          "year": "2023",
+          "heading": "Prototype : Clyde at OSlash",
+          "url": "https://clyde.webflow.io/",
+          "collaborators": [],
+          "description": "Clyde is a prototype of an AI copilot designed for personal and team use cases, created in partnership with OSlash to collect early feedback, which ultimately guided us to the development of OSlash Copilot.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3214,
+              "height": 1629,
+              "url": "/content/media/Prototype-Clyde-at-OSlash-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2444,
+              "height": 1366,
+              "url": "/content/media/Prototype-Clyde-at-OSlash-2.png"
+            }
+          ],
+          "type": "project",
+          "title": "Prototype : Clyde",
+          "company": "OSlash"
+        },
+        {
+          "id": "jhZ2VnNTpmLVotRFC1TF",
+          "year": "2021",
+          "heading": "Web design and Branding : OSlash.com at OSlash",
+          "url": "https://oslash.com",
+          "collaborators": [],
+          "description": "Designing OSlash.com using Webflow and Figma \n\nUI/UX research, Designing Wireframes and Prototyping ,\n- OSlash Copilot integration\n- Automating lead generation to capture market use cases\n- Strategizing and implementing marketing campaigns\n- Competitor analysis and SEO \n\nTools : Webflow, Figma, Zapier, Javascript, Google Analytics",
+          "attachments": [],
+          "type": "project",
+          "title": "Web design and Branding : OSlash.com",
+          "company": "OSlash"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "jbVg7f7oCRTeAOWYFTYN",
+          "year": "2024",
+          "heading": "Design Partner at GTM Bolt",
+          "url": "http://gtmbolt.com",
+          "collaborators": [],
+          "description": "I took the lead as the designer behind GTM Bolt, where I was responsible for creating the landing page, establishing the brand identity, and designing all visual assets. ",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 1360,
+              "height": 720,
+              "url": "/content/media/Design-Partner-at-GTM-Bolt-1.mp4"
+            },
+            {
+              "type": "image",
+              "width": 647,
+              "height": 444,
+              "url": "/content/media/Design-Partner-at-GTM-Bolt-2.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Design Partner",
+          "company": "GTM Bolt"
+        },
+        {
+          "id": "ZxBClSgUbOWAkcHKCU3F",
+          "year": "2023",
+          "heading": "Spatial OS Keyboard at Spline",
+          "url": "https://my.spline.design/visionprokeyboard-f4015cb0f8bef77008ea22078a8d6bf7/",
+          "collaborators": [],
+          "description": "Playground: Spline\nBeen playing around with something pretty cool, and I can't wait to share it with you all!\n\nAn Interactive Keyboard for Vision Pro Spatial OS, brought to life with a tool I'm totally hooked on – #spline an Interactive Keyboard for VisionProSpatialOS that feels as real as it gets, right at your fingertips!",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 1516,
+              "height": 720,
+              "url": "/content/media/Spatial-OS-Keyboard-at-Spline.mp4"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Spatial OS Keyboard",
+          "company": "Spline"
+        },
+        {
+          "id": "0Iwi5OPPa5FvWFBzCtC1",
+          "year": "2023",
+          "heading": "Portfolio Template at Webflow",
+          "url": null,
+          "collaborators": [],
+          "description": "Eclipse and Ascent | Portfolio crafted for Product Designers on Webflow",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 808,
+              "height": 480,
+              "url": "/content/media/Portfolio-Template-at-Webflow-1.gif"
+            },
+            {
+              "type": "image",
+              "width": 3840,
+              "height": 2880,
+              "url": "/content/media/Portfolio-Template-at-Webflow-2.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Portfolio Template",
+          "company": "Webflow"
+        },
+        {
+          "id": "URd1GeJvMFQju1bjyCyL",
+          "year": "2023",
+          "heading": "Text FX with Google",
+          "url": "http://text-fx-clone.webflow.io/",
+          "collaborators": [],
+          "description": "Google TextFX is a creative powerhouse fueled by Google's PaLM 2 model. With 10 AI tools, it reimagines how artists and creators approach text.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 600,
+              "height": 320,
+              "url": "/content/media/Text-FX-with-Google.gif"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Text FX with Google",
+          "company": null
+        },
+        {
+          "id": "ga751EUr6F7rFeGI0nhg",
+          "year": "2023",
+          "heading": "Open Interpreter at Framer",
+          "url": "https://openinterpreter.framer.website/",
+          "collaborators": [],
+          "description": "An hero section showcasing open interpreter's hero section with the background video",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3360,
+              "height": 1788,
+              "url": "/content/media/Open-Interpreter-at-Framer.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Open Interpreter",
+          "company": "Framer"
+        },
+        {
+          "id": "FQif7ckg1uGhczZK1sTm",
+          "year": "2021",
+          "heading": "Anterra Studio",
+          "url": "https://www.anterrastudio.com/",
+          "collaborators": [],
+          "description": "Interactive Webflow Website - Anterra Studio\n\nI and Dre (Anterra Studio's in-house designer), united talents to craft an interactive Webflow website that brings to life Anterra Studio's transformative work in masterplanning and design. The website serves as a vibrant showcase of their innovative services, highlighting their contributions to the built environment and community development, with a focus on notable projects like the Green Park Residences development",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 900,
+              "height": 476,
+              "url": "/content/media/Anterra-Studio.gif"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Anterra Studio",
+          "company": null
+        },
+        {
+          "id": "CkPDKiJnbkPjQn421RRl",
+          "year": "2021",
+          "heading": "Ben Hyde's Portfolio at Moontek",
+          "url": "https://www.benhydemotion.com/",
+          "collaborators": [],
+          "description": "Collaborating with Moontek Solutions to migrate Ben Hyde's portfolio from Wix to Webflow, enhancing the visual appeal and user experience. The project showcased Ben's expertise in commercial editing, directing, motion graphics, and his role as a non-executive director in community growth. The result is a modern, responsive website that reflects his creativity and professionalism.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 900,
+              "height": 480,
+              "url": "/content/media/Ben-Hydes-Portfolio-at-Moontek.gif"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Ben Hyde's Portfolio",
+          "company": "Moontek"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "0CAUJsSorg5lqhGAHhho",
+          "year": "2020 — Now",
+          "heading": "Designpreneur at NextGrid",
+          "url": "http://nextgrid.digital",
+          "collaborators": [
+            {
+              "displayName": "Vaswat Panda",
+              "profilePhoto": "/content/collaborators/vaswat.panda.jpg",
+              "profileURL": "https://read.cv/vaswat.panda"
+            }
+          ],
+          "description": "Webflow Template Designer\nAt NextGrid we hand-craft aesthetically designed templates in Webflow and Framer, making it the best solutions for businesses to launch their marketing websites quickly.\n\nWe also take up custom projects to help startups create their brand and identity on the web. With a keen eye for design and a knack for problem-solving, We transform boring websites into engaging, interactive experiences that keep visitors coming back for more.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 402,
+              "height": 390,
+              "url": "/content/media/Designpreneur-at-NextGrid-1.png"
+            },
+            {
+              "type": "video",
+              "width": 1360,
+              "height": 720,
+              "url": "/content/media/Designpreneur-at-NextGrid-2.mp4"
+            },
+            {
+              "type": "image",
+              "width": 1441,
+              "height": 1024,
+              "url": "/content/media/Designpreneur-at-NextGrid-3.png"
+            },
+            {
+              "type": "image",
+              "width": 808,
+              "height": 480,
+              "url": "/content/media/Designpreneur-at-NextGrid-4.gif"
+            },
+            {
+              "type": "image",
+              "width": 3360,
+              "height": 1788,
+              "url": "/content/media/Designpreneur-at-NextGrid-5.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Designpreneur",
+          "company": "NextGrid",
+          "location": "Self Employed - Remote"
+        },
+        {
+          "id": "VnF6odDhOUlusMkO5HG6",
+          "year": "2019 — 2023",
+          "heading": "Webflow Designer at OSlash",
+          "url": null,
+          "collaborators": [],
+          "description": "Webmaster | Webflow designer at OSlash\n\nThe role comprised of responsibilities including :\n\n* Designing OSlash.com \\[Webflow\\]\n* UI/UX research, Designing Wireframes and Prototyping \\[Figma\\]\n* Tool integrations\n* Strategizing and implementing marketing campaigns\n* Competitor analysis and SEO\n\nDesigned visually appealing and intuitive user interfaces that drive website traffic and conversions to deliver the best possible user experiences and drive business growth.\n\nSkills: Startup Marketing · User Experience Design (UED) · User Experience (UX) · Graphic Design · Design · Design Thinking · Content Marketing · Marketing · Webflow · Web Design",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 5268,
+              "height": 3293,
+              "url": "/content/media/Webflow-Designer-at-OSlash-1.png"
+            },
+            {
+              "type": "image",
+              "width": 5269,
+              "height": 3366,
+              "url": "/content/media/Webflow-Designer-at-OSlash-2.png"
+            },
+            {
+              "type": "image",
+              "width": 5269,
+              "height": 3293,
+              "url": "/content/media/Webflow-Designer-at-OSlash-3.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Webflow Designer",
+          "company": "OSlash",
+          "location": "Bengaluru"
+        },
+        {
+          "id": "5MrphTFz4HgFfXGtFMfZ",
+          "year": "2022 — 2023",
+          "heading": "Product Designer at Oslash",
+          "url": "https://www.oslash.com",
+          "collaborators": [],
+          "description": "With a strong background in web design, a deep understanding of how to create seamless user experiences that drive engagement and conversion I wm now promoted to a product designer where I am involved in creating the chat interface for OSlash Copilot\n\nSkills: Prototyping · Wireframing · Design Management · Product Marketing · Product Design · Design · User Interface Design · Software Design · Design Thinking · Content Marketing · Marketing · Multi-Channel Marketing · Web Design",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 790,
+              "height": 734,
+              "url": "/content/media/Product-Designer-at-Oslash-1.png"
+            },
+            {
+              "type": "video",
+              "width": 756,
+              "height": 720,
+              "url": "/content/media/Product-Designer-at-Oslash-2.mp4"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 322,
+              "url": "/content/media/Product-Designer-at-Oslash-3.png"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 322,
+              "url": "/content/media/Product-Designer-at-Oslash-4.png"
+            },
+            {
+              "type": "image",
+              "width": 790,
+              "height": 650,
+              "url": "/content/media/Product-Designer-at-Oslash-5.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Oslash",
+          "location": "Bengaluru"
+        },
+        {
+          "id": "yrNV0PHAv4YZm0sQ0e3s",
+          "year": "2019 — 2021",
+          "heading": "Test Automation Engineer at Mindteck",
+          "url": null,
+          "collaborators": [],
+          "description": "Test Engineer | Phillips\ncertified • Python Programming Expert \n\nResponsibilities:\n• Automation analysis and identification • Test Automation using Selenium with Python • Embedded systems testing • API testing • Test case preparation and execution • Manual testing",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Test Automation Engineer",
+          "company": "Mindteck",
+          "location": "Kolkata, India"
+        },
+        {
+          "id": "aFNZ7GBfGv2nmRxLT9kB",
+          "year": "2018 — 2019",
+          "heading": "Test Engineer at RAD365",
+          "url": null,
+          "collaborators": [],
+          "description": "Test Engineer | Phillips\ncertified • Python Programming Expert \n\nSkills:\n• Automation analysis and identification • Test Automation using Selenium with Python • Embedded systems testing • API testing • Test case preparation and execution • Manual testing",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Test Engineer",
+          "company": "RAD365",
+          "location": "Kolkata"
+        }
+      ]
+    },
+    {
+      "name": "Speaking",
+      "items": [
+        {
+          "id": "6rHN5VykFqF68Tz3rRKW",
+          "year": "2023",
+          "heading": "Journey from Webflow to Product Design at Webflow Meetup Bengaluru",
+          "url": "https://www.linkedin.com/posts/abin-kumar-panda_webflowenthusiasts-communitymatters-webdesign-activity-7099045120401932289-eVuX?utm_source=share&utm_medium=member_desktop",
+          "collaborators": [],
+          "description": "Hosted my first ever Webflow Meetup to \n\n🤝 Network with like-minded individuals\n🌟 Share your experiences and insights\n🔍 Learn from experts in the field",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2880,
+              "height": 1800,
+              "url": "/content/media/Journey-from-Webflow-to-Product-Design-at-Webflow-Meetup-Bengaluru-1.png"
+            },
+            {
+              "type": "image",
+              "width": 777,
+              "height": 488,
+              "url": "/content/media/Journey-from-Webflow-to-Product-Design-at-Webflow-Meetup-Bengaluru-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1478,
+              "height": 1108,
+              "url": "/content/media/Journey-from-Webflow-to-Product-Design-at-Webflow-Meetup-Bengaluru-3.jpg"
+            }
+          ],
+          "type": "talk",
+          "title": "Journey from Webflow to Product Design",
+          "event": "Webflow Meetup Bengaluru",
+          "location": "Bengaluru, India"
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "yZSRzodUAuYpxxAnsRIq",
+          "year": "2023",
+          "heading": "Unveiling the Evolution of AI : A Journey Through the 7 Stages, medium",
+          "url": "https://medium.com/@AbinPanda/7-stages-of-ai-68a89a13b820",
+          "collaborators": [],
+          "description": "Unveiling the Evolution of AI : A Journey Through the 7 Stages\n\nThis article discusses the seven stages of artificial intelligence (AI) and its evolution from rule-based systems to the theoretical concept of the singularity.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3840,
+              "height": 2160,
+              "url": "/content/media/Unveiling-the-Evolution-of-AI-A-Journey-Through-the-7-Stages-medium.jpg"
+            }
+          ],
+          "type": "writing",
+          "title": "Unveiling the Evolution of AI : A Journey Through the 7 Stages",
+          "publisher": "medium"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "WFsFKVlklquhTBBxOogq",
+          "year": "2012 — 2016",
+          "heading": "Bachelor’s Degree in Computer Science and Engineering at MIT University of Meghalaya",
+          "url": "https://www.mituniversityindia.edu.in/",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor’s Degree in Computer Science and Engineering",
+          "school": "MIT University of Meghalaya",
+          "location": "Shillong, Meghalaya, India"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "E34jSW3EmisP0YcLAsPS",
+          "year": "2023",
+          "heading": "Google Cloud - Certifications from Google",
+          "url": "https://www.cloudskillsboost.google/public_profiles/ee5abba1-cf2a-4171-8023-1c6f63ddeb47",
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1206,
+              "height": 1120,
+              "url": "/content/media/Google-Cloud-Certifications-from-Google-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1216,
+              "height": 1086,
+              "url": "/content/media/Google-Cloud-Certifications-from-Google-2.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Google Cloud - Certifications",
+          "organization": "Google"
+        },
+        {
+          "id": "12ZtpzTx5y8w8Q1aOoDz",
+          "year": "2023",
+          "heading": "Introduction to Duet AI in Google Workspace from Google",
+          "url": "https://www.cloudskillsboost.google/public_profiles/ee5abba1-cf2a-4171-8023-1c6f63ddeb47/badges/6299860",
+          "collaborators": [],
+          "description": "[Introduction to Duet AI in Google Workspace | Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/ee5abba1-cf2a-4171-8023-1c6f63ddeb47/badges/6299860)",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1250,
+              "height": 1138,
+              "url": "/content/media/Introduction-to-Duet-AI-in-Google-Workspace-from-Google.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Introduction to Duet AI in Google Workspace",
+          "organization": "Google"
+        },
+        {
+          "id": "atGLILDV14XYJ3v0NDaW",
+          "year": "2019",
+          "heading": "Webflow Certifications from Webflow",
+          "url": null,
+          "collaborators": [],
+          "description": "Webflow Layout : Level 1\nWebflow 101 course certification",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1275,
+              "height": 1650,
+              "url": "/content/media/Webflow-Certifications-from-Webflow-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 1275,
+              "height": 1650,
+              "url": "/content/media/Webflow-Certifications-from-Webflow-2.jpg"
+            }
+          ],
+          "type": "certification",
+          "name": "Webflow Certifications",
+          "organization": "Webflow"
+        },
+        {
+          "id": "fVyY2bz37IZ0iCcy65JY",
+          "year": "2019",
+          "heading": "Cloud Computing and Virtualization Specialist from IBM",
+          "url": "https://www.credly.com/badges/4904f7f0-2619-4cbd-94b3-d105ce0e5d28/linked_in_profile",
+          "collaborators": [],
+          "description": "Univ Reg. No.\nR010112006",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 386,
+              "height": 358,
+              "url": "/content/media/Cloud-Computing-and-Virtualization-Specialist-from-IBM.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Cloud Computing and Virtualization Specialist",
+          "organization": "IBM"
+        },
+        {
+          "id": "l3aqKqPhceOztxF49SHR",
+          "year": "2019",
+          "heading": "Python Programming Expert from Edureka",
+          "url": "https://www.edureka.co/lms/certificate/6be52886deaf2c8420b25fe965ed99ee",
+          "collaborators": [],
+          "description": null,
+          "attachments": [
+            {
+              "type": "image",
+              "width": 541,
+              "height": 377,
+              "url": "/content/media/Python-Programming-Expert-from-Edureka.png"
+            }
+          ],
+          "type": "certification",
+          "name": "Python Programming Expert",
+          "organization": "Edureka"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "XUsLnYSBjPOgtQ5XawQC",
+          "platform": "Gumroad",
+          "handle": "Convert GPT",
+          "url": "https://nextgrid.gumroad.com/l/ConvertGPT"
+        },
+        {
+          "id": "PvgSLro0RQ0XG4RU2TAp",
+          "platform": "Consulting @ Goreply",
+          "handle": "Abin",
+          "url": "https://goreply.com/p/Abin/"
+        },
+        {
+          "id": "eqo9wbN61YVUb1GpNGnc",
+          "platform": "LinkedIn",
+          "handle": "abin-kumar-panda",
+          "url": "https://linkedin.com/in/abin-kumar-panda"
+        },
+        {
+          "id": "5zotiJON9JIib2gXnKew",
+          "platform": "Email",
+          "handle": "abin@mail-me.com",
+          "url": "mailto:abin@mail-me.com"
+        },
+        {
+          "id": "jDAF8C46BTQgI0j2Rfme",
+          "platform": "Website",
+          "handle": "abin.webflow.io",
+          "url": "https://abin.webflow.io"
+        },
+        {
+          "id": "2uLPIIq9mRbEuPkzDBLx",
+          "platform": "Twitter",
+          "handle": "AbinPanda",
+          "url": "https://twitter.com/AbinPanda"
+        },
+        {
+          "id": "SfcXCO5xQ4CEXdQtDdpl",
+          "platform": "Dribbble",
+          "handle": "Abin_Panda",
+          "url": "https://dribbble.com/Abin_Panda"
+        }
+      ]
+    },
+    {
+      "name": "Awards",
+      "items": [
+        {
+          "id": "OlnzScFdmjQ90uVaPvAA",
+          "year": "2021",
+          "heading": "CloneComp Winners from Finsweet + Webflow",
+          "url": "https://clonecomp.webflow.io",
+          "collaborators": [],
+          "description": "CloneComp is a four day Webflow specific hackathon designed to test your skills and connect you with top makers in the no code community. \n\nTaking inspiration from popular online cooking shows, CloneComp blends time capped web development with story-driven daily prompts that challenge participants to weave creative story lines into engaging digital experiences.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1280,
+              "height": 720,
+              "url": "/content/media/CloneComp-Winners-from-Finsweet-Webflow.jpg"
+            }
+          ],
+          "type": "award",
+          "title": "CloneComp Winners",
+          "presenter": "Finsweet + Webflow"
+        }
+      ]
+    }
+  ]
+}
