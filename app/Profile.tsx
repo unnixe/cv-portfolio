@@ -36,7 +36,7 @@ const Profile: React.FC<ProfileProps> = ({
 
       {cv.allCollections.map((collection: any, index: number) => {
         return (
-          <section className={styles.profileSection}>
+          <section key={`collection-${collection.name}`} className={styles.profileSection}>
             <h3>{collection.name}</h3>
             <div className={collection.name === "Contact" ? styles.contacts : styles.experiences}>
               {collection.items.map((experience: any, index: number) => {
