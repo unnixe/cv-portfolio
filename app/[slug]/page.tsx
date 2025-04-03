@@ -4,14 +4,17 @@ import path from 'path';
 import { Metadata } from 'next';
 
 // Define the metadata generation function
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   try {
     const cvFile = await fs.readFile(process.cwd() + '/public/content/profileData.json', 'utf8');
     const cv = JSON.parse(cvFile);
     
+    const resolvedParams = await params;
+    const slug = resolvedParams.slug;
+    
     return {
-      title: `${params.slug} | ${cv.general.name}`,
-      description: `Case study for ${params.slug}`,
+      title: `${slug} | ${cv.general.name}`,
+      description: `Case study for ${slug}`,
     };
   } catch (error) {
     return {
@@ -23,7 +26,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 
 export const dynamic = 'force-static';
 
-export async function generateStaticParams() {
+export async function generateStaticParams(): Promise<Array<{ slug: string }>> {
   try {
     // Get all markdown files from the content directory
     const contentDir = path.join(process.cwd(), 'public/content');
@@ -44,7 +47,7 @@ export async function generateStaticParams() {
 
 // Define the correct type for the page component
 type Props = {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
   searchParams?: { [key: string]: string | string[] | undefined };
 };
 
@@ -52,7 +55,8 @@ export default async function CaseStudyPage({ params }: Props) {
   const cvFile = await fs.readFile(process.cwd() + '/public/content/profileData.json', 'utf8');
   const cv = JSON.parse(cvFile);
 
-  const slug = params.slug;
+  const resolvedParams = await params;
+  const slug = resolvedParams.slug;
   const file = await fs.readFile(process.cwd() + `/public/content/${slug}.md`, 'utf8');
 
   return (
